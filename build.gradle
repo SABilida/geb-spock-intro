@@ -5,6 +5,8 @@ plugins {
     id "com.energizedwork.idea-base" version "1.4"
 }
 
+version='0.0.1'
+
 ext {
     // The drivers we want to use
     drivers = ["firefox", "chrome", "chromeHeadless"]
